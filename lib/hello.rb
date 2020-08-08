@@ -4,6 +4,8 @@ def hello_t
   yield array[i]
   i = i + 1 
 end
+end
+
 
 ["Tim", "Tom", "Jim"]
 
